@@ -11,9 +11,10 @@ new Chart(document.getElementById("doughnut-chart"), {
       ]
 	},
 	options: {
-		title: {
+		title: {r
 			display: true,
 			text: 'Predicted USers'
 		}
 	}
 });
+// added datasets
